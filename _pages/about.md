@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.utexas.edu/'>UT Austin</a>, <a href='https://www.bme.utexas.edu/'>BME</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Austin, TX</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
