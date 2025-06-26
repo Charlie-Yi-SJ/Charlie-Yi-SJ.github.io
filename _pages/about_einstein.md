@@ -1,4 +1,8 @@
-I am a first-year PhD student in the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). 
+I am a first-year Ph.D. student in the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/) working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) supervised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/) from the School of Information. I'm co-advised by Prof. Mia Markey in the department of biomedical engineering.
+
+
+
+My Korean Name is Seungjun Yi (이승준). 
 
 # Default Messages
 
