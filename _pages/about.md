@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student in the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) supervised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/) from the School of Information. I am co-advised by Prof. Mia Markey in the [Department of Biomedical Engineering](https://www.bme.utexas.edu/people/faculty-directory/markey).
+I am a first-year Ph.D. student in the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working in the [AI Health Lab](https://aihealth.ischool.utexas.edu/) supervised by [Prof. Ying Ding](https://yingding.ischool.utexas.edu/) from the School of Information. I am co-advised by [Prof. Mia Markey](https://www.bme.utexas.edu/people/faculty-directory/markey) in the Department of Biomedical Engineering.
 
 Aside from research, I am a poker enthusiast. As a former professional [Go](https://en.wikipedia.org/wiki/Go_(game)#:~:text=The%20standard%20Go%20board%20has,c.%204th%20century%20BCE) player (an asian board game popularized by [AlphaGo](https://deepmind.google/research/projects/alphago/)), I’m fascinated by exploiting player tendencies and exploring [game theory optimal (GTO) strategies](https://blog.gtowizard.com/what-is-gto-in-poker/) in imperfect information games.
 
