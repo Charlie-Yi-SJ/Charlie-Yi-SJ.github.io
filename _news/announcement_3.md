@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My paper for the <a href="https://2025.aclweb.org/">2025 ACL-SRW</a> was accepted. I’m looking forward to participating this July in Vienna, Austria!
+
+
