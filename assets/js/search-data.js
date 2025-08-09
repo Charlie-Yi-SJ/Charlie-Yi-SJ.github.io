@@ -433,16 +433,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-i-will-be-attending-the-university-of-texas-at-austin-for-a-ph-d-program-in-biomedical-engineering",
+          title: 'I will be attending the University of Texas at Austin for a Ph.D....',
+          description: "",
+          section: "News",},{id: "news-i-received-3rd-place-at-the-research-showcase-during-the-2025-ut-system-ai-symposium-in-healthcare",
+          title: 'I received 3rd place at the Research Showcase during the 2025 UT System...',
+          description: "",
+          section: "News",},{id: "news-my-paper-for-the-2025-acl-srw-was-accepted-i-m-looking-forward-to-participating-this-july-in-vienna-austria",
+          title: 'My paper for the 2025 ACL-SRW was accepted. I’m looking forward to participating...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
