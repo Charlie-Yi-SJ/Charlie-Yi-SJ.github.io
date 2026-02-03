@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -84,6 +77,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-paper-for-the-2025-acl-srw-was-accepted-i-m-looking-forward-to-participating-this-july-in-vienna-austria",
           title: 'My paper for the 2025 ACL-SRW was accepted. I’m looking forward to participating...',
+          description: "",
+          section: "News",},{id: "news-our-paper-was-accepted-to-the-findings-of-machine-learning-for-health-ml4h-2025-looking-forward-to-presenting",
+          title: 'Our paper was accepted to the Findings of Machine Learning for Health (ML4H)...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-attending-neurips-amp-amp-ml4h-2025-in-san-diego-dec-1-7",
+          title: 'I will be attending NeurIPS &amp;amp;amp; ML4H 2025 in San Diego (Dec 1-7)....',
           description: "",
           section: "News",},{id: "projects-tama",
           title: 'TAMA',
