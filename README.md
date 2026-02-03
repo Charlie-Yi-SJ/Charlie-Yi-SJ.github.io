@@ -1,6 +1,6 @@
 # Charlie Yi's Personal Website
 
-Personal academic website for Charlie Yi, a Ph.D. student in Biomedical Engineering at the University of Texas at Austin.
+Personal academic website for Charlie Yi, a PhD Candidate in Biomedical Engineering at the University of Texas at Austin.
 
 ## About
 
