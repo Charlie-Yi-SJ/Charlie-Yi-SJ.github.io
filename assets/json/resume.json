@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Charlie (Seungjun) Yi",
-    "label": "Ph.D. Student in Biomedical Engineering",
+    "label": "Ph.D. Candidate in Biomedical Engineering",
     "image": "",
     "email": "charlie.yi@utexas.edu",
     "url": "https://Charlie-Yi-SJ.github.io",
-    "summary": "First-year Ph.D. student in Biomedical Engineering at the University of Texas at Austin, working in the AI Health Lab. Research focuses on scalable multi-agent LLM systems for clinical NLP and automated thematic analysis.",
+    "summary": "Ph.D. Candidate in Biomedical Engineering at the University of Texas at Austin, working in the AI Health Lab. Research focuses on scalable multi-agent LLM systems for clinical NLP and automated thematic analysis.",
     "location": {
       "city": "Austin",
       "countryCode": "US",
